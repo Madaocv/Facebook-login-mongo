@@ -45,5 +45,5 @@ class FaceSpider(scrapy.Spider):
             item = {}
             item['name'] = a.xpath('div/text()').extract()[0]
             item['href'] = a.xpath('@href').extract()[0]
-            #db.person.insert_one(item)
+            db.person.insert_one(item)
             #yield item

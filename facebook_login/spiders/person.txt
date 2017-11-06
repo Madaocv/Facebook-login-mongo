@@ -1,0 +1,13 @@
+> db.person.find()
+{ "_id" : ObjectId("59ffe31260d650450659469f"), "href" : "https://www.facebook.com/DonaldTrump/?ref=br_rs", "name" : "Donald J. Trump" }
+{ "_id" : ObjectId("59ffe48f60d65045feb270ee"), "href" : "https://www.facebook.com/DonaldTrump/?ref=br_rs", "name" : "Donald J. Trump" }
+{ "_id" : ObjectId("59ffe56260d65046a0c72eb2"), "href" : "https://www.facebook.com/DonaldTrump/?ref=br_rs", "name" : "Donald J. Trump" }
+{ "_id" : ObjectId("59ffe56360d65046a0c72eb3"), "href" : "https://www.facebook.com/thetotallyrealdonaldtrump/?ref=br_rs", "name" : "Donald J Trump" }
+{ "_id" : ObjectId("59ffe56360d65046a0c72eb4"), "href" : "https://www.facebook.com/POTUS/?ref=br_rs", "name" : "President Donald J. Trump" }
+{ "_id" : ObjectId("59ffe56360d65046a0c72eb5"), "href" : "https://www.facebook.com/realdonalditrump/?ref=br_rs", "name" : "Donald J.Trump" }
+{ "_id" : ObjectId("59ffe56360d65046a0c72eb6"), "href" : "https://www.facebook.com/PresidentDonaldJTrump45th/?ref=br_rs", "name" : "President Donald J. Trump" }
+{ "_id" : ObjectId("59ffe56360d65046a0c72eb7"), "href" : "https://www.facebook.com/TrumpOfficial/?ref=br_rs", "name" : "Donald J Trump" }
+{ "_id" : ObjectId("59ffe56360d65046a0c72eb8"), "href" : "https://www.facebook.com/MAGADonaldJTrump/?ref=br_rs", "name" : "Donald J. Trump - USA" }
+{ "_id" : ObjectId("59ffe56360d65046a0c72eb9"), "href" : "https://www.facebook.com/chabelosociedadautista/?ref=br_rs", "name" : "Donald J. Trump             ." }
+{ "_id" : ObjectId("59ffe56360d65046a0c72eba"), "href" : "https://www.facebook.com/POTUSDJT45/?ref=br_rs", "name" : "POTUS Donald J Trump" }
+{ "_id" : ObjectId("59ffe56360d65046a0c72ebb"), "href" : "https://www.facebook.com/DonaldJTrumpJr/?ref=br_rs", "name" : "Donald Trump Jr." }
